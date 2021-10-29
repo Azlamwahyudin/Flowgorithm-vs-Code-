@@ -36,9 +36,28 @@
 
 ![Screenshot 2021-10-29 131813](https://user-images.githubusercontent.com/93004934/139389245-2758bba0-577c-4137-a625-bc09bf108515.png)
 
-3. menghitung waktu yang di butuhkan pak yunanri\
+3. menghitung waktu yang di butuhkan pak yunanri
 
-- 
+- buat flowchart
+
+![Screenshot 2021-10-29 135953](https://user-images.githubusercontent.com/93004934/139391945-cb69af12-3efa-4a2f-b53e-a278246d5c7c.png)
+
+- dan hasil nya adalah 3.6 menit
+
+![Screenshot 2021-10-29 140039](https://user-images.githubusercontent.com/93004934/139392148-8545b663-7867-4565-a267-bf5135e8bad2.png)
+
+- kita jalankan di vs code
+
+![Screenshot 2021-10-29 141210](https://user-images.githubusercontent.com/93004934/139392201-bffdb9ce-500d-417f-97d6-8c13f7b2870a.png)
+
+- dan hasilnya sama
+
+![Screenshot 2021-10-29 141304](https://user-images.githubusercontent.com/93004934/139392329-d1fece46-78de-4f51-a79d-7bb1bb6577e6.png)
+
+SELSAI.
+
+
+
 
 
 
